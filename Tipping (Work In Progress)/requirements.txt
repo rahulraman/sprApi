@@ -1,0 +1,6 @@
+boto
+flask
+tweepy
+GoogleAppEngineCloudStorageClient
+faker
+stripe

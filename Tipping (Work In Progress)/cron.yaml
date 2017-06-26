@@ -1,0 +1,4 @@
+cron:
+- description: weekly clear of plays
+  url: /tasks/clear_plays
+  schedule: every 164 hours
